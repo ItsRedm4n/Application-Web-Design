@@ -1,5 +1,12 @@
-Proyecto Git
-## Información Personal\n- Nombre: Carlos Orozco\n- Número de Registro: 2902564\n- Carrera: IDS\n- Semestre: Sixth semester\n
-## Información de la Asignatura\n- Asignatura: Web Design\n- Profesor: Carlos Nolasco\n
-## Descripción\n Is a lightweight markup language that describes how text should look on a page. 
-## Modificacion por FLINN LOCO
+AL02902564
+
+
+El formato es de la evidencia 1, lo cual subi cada PNG de los diferentes diagramas, 
+espero que le guste, de igual forma en este README anexo el la primera pregunta
+que decia sobre justificar la methodologia
+
+La metodologia seria SCRUM
+Las metodologías ágiles, especialmente Scrum, 
+son adecuadas para proyectos dinámicos con requisitos en constante evolución. 
+Scrum permite el desarrollo iterativo, la retroalimentación frecuente y la adaptabilidad, 
+alineándose bien con las necesidades en constante cambio del cliente y la naturaleza del desarrollo de aplicaciones web.
